@@ -1,0 +1,7 @@
+name: alwaysnightmode
+version: '1.0-Stable'
+main: dev.lenvx.alwaysnightmode.Alwaysnightmode
+api-version: '1.21'
+authors: [ Lenvx ]
+website: https://github.com/lenvxcodes/smartrestart
+on disable: dev.lenvx.alwaysnightmode.Alwaysnightmode

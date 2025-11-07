@@ -1,0 +1,4 @@
+# avoid givin em night vision
+excluded-players:
+  - "antinightvisionbro"
+  - "ihatenightvision"
